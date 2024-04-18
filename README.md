@@ -44,8 +44,8 @@ Loss0 is masked cross entropy loss of model outputs and targets. loss1 is MSELos
 
 &lt;start&gt; a male boarder is a waves in the ocean &lt;end&gt;
 
-![caravan-339564_1920]
-(https://github.com/toshiouchi/ImageCaptioningMaskPredict/assets/121741811/4783b8e1-0881-4063-8934-bcc0cef09ec7).
+![caravan-339564_1920](https://github.com/toshiouchi/ImageCaptioningMaskPredict/assets/121741811/7b11babf-dada-49c1-93e0-b3f680896f3b)
+
 
 &lt;start&gt; a man with a umbrella standing on a beach &lt;end&gt;
 
