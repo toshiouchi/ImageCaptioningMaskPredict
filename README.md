@@ -8,7 +8,7 @@ Train2017 of cocodataset was used, and train dataset is 90% of it, and val datas
 
 loss = loss0 + loss1
 
-Loss0 is masked cross entropy loss of model outputs and targets. loss1 is MSELoss of predicted length of captions and target lengths.
+Loss0 is masked cross entropy loss of model outputs and targets. Loss1 is MSELoss of predicted length of captions and target lengths.
 
 ### Loss0
 ![ImageCaptioning_OnlyMaskPredict_Loos0](https://github.com/toshiouchi/ImageCaptioningMaskPredict/assets/121741811/6de2b3d4-3df2-427b-9d0b-c7daf9b8dbea)
