@@ -26,7 +26,7 @@ Loss0 is masked cross entropy loss of model outputs and targets. loss1 is MSELos
 
 ![adorable-1849992_1920](https://github.com/toshiouchi/ImageCaptioningMaskPredict/assets/121741811/dc6aefb8-1ab2-487c-9dd3-1ad8502ff47f)
 
-<start> a dog and a dog trying to catch a with <end>
+&lt;start&gt; a dog and a dog trying to catch a with &lt;end&gt;
 
 ![africa-1170179_1920](https://github.com/toshiouchi/ImageCaptioningMaskPredict/assets/121741811/4df07891-cd2e-413a-9023-c0d46121de1f)
 
