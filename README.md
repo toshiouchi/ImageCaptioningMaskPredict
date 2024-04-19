@@ -101,6 +101,13 @@ Loss0 is masked cross entropy loss of model outputs and targets. Loss1 is MSELos
 
 &lt;start&gt; a zebra in a grassy area eating and eating &lt;end&gt;
 
+## Link
 
+### Transformer with downsampling
 
+https://github.com/toshiouchi/non_autoregressive_transformer_image_captioning/blob/main/README.md
+
+### CTC + Mask-Predict 
+
+https://github.com/toshiouchi/CTCMask/tree/main
 
